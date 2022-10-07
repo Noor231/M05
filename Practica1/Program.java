@@ -16,7 +16,7 @@ import java.util.Scanner;
 public class Program {
 	/**
 	 * Calculates the area of a circle
-	 * 
+	 *noor change 
 	 * @param radius is a double numbers
 	 * @return a double: the area of a circle
 	 */
